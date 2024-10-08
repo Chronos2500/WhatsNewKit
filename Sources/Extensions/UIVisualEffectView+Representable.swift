@@ -10,8 +10,8 @@ extension UIVisualEffectView {
         
         // MARK: Properties
         
-        /// The UIVisualEffect. Default value `UIBlurEffect(style: .systemThickMaterial)`
-        var effect: UIVisualEffect = UIBlurEffect(style: .regular)
+        /// The UIVisualEffect. Default value `UIBlurEffect(style: .systemChromeMaterial)`
+        var effect: UIVisualEffect = UIBlurEffect(style: .systemChromeMaterial)
         
         // MARK: UIViewRepresentable
         
